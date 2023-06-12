@@ -142,6 +142,6 @@ subline,notepad++等等
 
 4.更改格式
 
-![image-20230612165835768](imagesday/image-20230612165835768.png)
+![image-20230612165835768](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612165835768.png)
 
 （编码最好使用ansi：支持中文，日文编码同理选择合适的编码格式）

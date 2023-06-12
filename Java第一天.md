@@ -48,7 +48,7 @@ oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday
 
 进入product
 
-![image-20230612154058936](Code\imagesday1\image-20230612154058936.png)
+![image-20230612154058936](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612154007903.png)
 
 进入java
 

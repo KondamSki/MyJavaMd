@@ -42,7 +42,7 @@ win+e
 
 ### 2.1 jdk17下载
 
-oracle官网-》![image](imagesday1\20230612153928224.png)
+oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/20230612153928224.png?raw=true)
 
 优先下载英文版
 

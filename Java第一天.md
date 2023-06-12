@@ -42,7 +42,11 @@ win+e
 
 ### 2.1 jdk17下载
 
+<<<<<<< HEAD
 oracle官网-》![image-20230612153928224](imagesday1\image-20230612153928224.png)
+=======
+oracle官网-》![image](imagesday1\image-20230612153928224.png)
+>>>>>>> bc823ff14e3d91d11d1e2449adf1db711b4255fe
 
 优先下载英文版
 

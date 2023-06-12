@@ -124,7 +124,7 @@ subline,notepad++等等
 
 我使用的是notepad++例：
 
-![image-20230612165012145]([https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/)image-20230612165012145.png)
+![image-20230612165012145](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612165012145.png)
 
 官网[Notepad++ (notepad-plus-plus.org)](https://notepad-plus-plus.org/)
 

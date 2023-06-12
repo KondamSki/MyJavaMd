@@ -42,21 +42,21 @@ win+e
 
 ### 2.1 jdk17下载
 
-oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/20230612153928224.png?raw=true)
+oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/20230612153928224.png?raw=true)
 
 优先下载英文版
 
 进入product
 
-![image-20230612154058936](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612154007903.png)
+![image-20230612154058936](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612154007903.png)
 
 进入java
 
-![image-20230612154117052](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612154058936.png)
+![image-20230612154117052](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612154058936.png)
 
 下载纯净安装包
 
-![image-20230612154354941](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612154354941.png)
+![image-20230612154354941](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612154354941.png)
 
 下载完后的文件最好装在英文目录下，防止后期出现bug
 
@@ -80,13 +80,13 @@ oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday
 
 目前最新版本jdk安装会自动配置环境变量
 
-![image-20230612163233521](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612163233521.png)
+![image-20230612163233521](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612163233521.png)
 
 但是如果下载旧版本，则需要手动配置环境变量
 
 1.在系统变量位置新建一个JAVA_HOME
 
-![image-20230612163602448](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612163602448.png)
+![image-20230612163602448](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612163602448.png)
 
 疑问：为什么不直接装在path里面，而是新建一个JAVA_HOME变量
 
@@ -94,13 +94,13 @@ oracle官网-》![img](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday
 
 2.在path中引入新建的变量
 
-![image-20230612163825957](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612163825957.png)
+![image-20230612163825957](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612163825957.png)
 
 注意变量用%%引用（\bin此为拼接）
 
 ### 3.3 java jdk自动配置的工具
 
-![image-20230612164326794](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612164326794.png)
+![image-20230612164326794](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612164326794.png)
 
 为以上4个
 
@@ -124,7 +124,7 @@ subline,notepad++等等
 
 我使用的是notepad++例：
 
-![image-20230612165012145](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612165012145.png)
+![image-20230612165012145]([https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/)image-20230612165012145.png)
 
 官网[Notepad++ (notepad-plus-plus.org)](https://notepad-plus-plus.org/)
 
@@ -142,6 +142,6 @@ subline,notepad++等等
 
 4.更改格式
 
-![image-20230612165835768](https://github.com/KondamSki/MyJavaMd/blob/main/imagesday1/image-20230612165835768.png)
+![image-20230612165835768](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay1/imagesday1/image-20230612165835768.png)
 
 （编码最好使用ansi：支持中文，日文编码同理选择合适的编码格式）

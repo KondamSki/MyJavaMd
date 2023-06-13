@@ -6,13 +6,13 @@
 
 java文件->class文件->平台执行器->虚拟机->处理电脑
 
-![image-20230613161356151](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613161356151.png)
+![image-20230613161356151](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613161356151.png)
 
 ### 1.2java跨平台原理
 
 通过虚拟机
 
-![image-20230613161603994](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613161603994.png)
+![image-20230613161603994](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613161603994.png)
 
 
 
@@ -32,7 +32,7 @@ JVM（java virtual machine）:java虚拟机，真正运行java程序的地方
 
 （以上3种合起来称为jdk）
 
-![image-20230613162143498](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613162143498.png)
+![image-20230613162143498](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613162143498.png)
 
 ### 2.4 JRE
 
@@ -40,7 +40,7 @@ java单独运行的环境不需要一部分开发工具
 
 将剩下的运行工具与前两种打包则组成JRE（比较小）
 
-![image-20230613162410508](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613162410508.png)
+![image-20230613162410508](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613162410508.png)
 
 
 
@@ -74,7 +74,7 @@ java中大概有50多个关键字
 
 字面量类型：整数类型、小数类型、字符串类型、字符类型、布尔类型、空类型
 
-![image-20230613164106706](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613164106706.png)
+![image-20230613164106706](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613164106706.png)
 
 ps（制表符\t：可以把前面字符补到8位，方便对齐）
 
@@ -92,7 +92,7 @@ ps（制表符\t：可以把前面字符补到8位，方便对齐）
 
 ### 3.5java中进制的前缀
 
-![image-20230613172432308](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613172432308.png)
+![image-20230613172432308](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613172432308.png)
 
 
 
@@ -102,21 +102,21 @@ ps（制表符\t：可以把前面字符补到8位，方便对齐）
 
 ### 4.1数据类型
 
-![image-20230613175644406](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613175644406.png)
+![image-20230613175644406](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613175644406.png)
 
 ### 4.2标识符
 
 给类，方法，变量起的名字
 
-![image-20230613200245483](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613200245483.png)
+![image-20230613200245483](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613200245483.png)
 
 小驼峰命名法
 
-![image-20230613200752540](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613200752540.png)
+![image-20230613200752540](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613200752540.png)
 
 大驼峰命名法
 
-![image-20230613200904147](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613200904147.png)
+![image-20230613200904147](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613200904147.png)
 
 
 
@@ -126,13 +126,13 @@ Scanner类
 
 步骤一：导入Scanner包
 
-![image-20230613201248187](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613201248187.png)
+![image-20230613201248187](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613201248187.png)
 
 步骤二：创建对象
 
-![image-20230613201307724](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613201307724.png)
+![image-20230613201307724](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613201307724.png)
 
 步骤三：接受数据
 
-![image-20230613201337205](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2\image-20230613201337205.png)
+![image-20230613201337205](https://github.com/KondamSki/MyJavaMd/blob/main/JavaDay2/imagesday2/image-20230613201337205.png)
 
